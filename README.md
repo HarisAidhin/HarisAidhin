@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bos Haris 👋</h1>
+<h1 align="center">Hi, I'm Haris 👋</h1>
 <p align="center">Cybersecurity • Programmer • Creative Editor</p>
 
 ---
@@ -6,7 +6,6 @@
 ### 📂 About Me
 - 🎓 Student of Information Systems
 - 💻 Passionate in cybersecurity & ethical hacking
-- 🎮 Indie game developer (C++)
 - 🎬 Motion graphics editor & visual artist
 
 ---
