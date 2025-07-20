@@ -34,7 +34,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosharis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?HarisAidhin=bosharis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bosharis&theme=radical&hide_border=true&background=0D1117" width="48%"/>
 </p>
 
@@ -45,11 +45,8 @@
   <a href="https://instagram.com/yourusername">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:haris.aidhin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://tryhackme.com/p/yourusername">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=black"/>
   </a>
 </p>
 
