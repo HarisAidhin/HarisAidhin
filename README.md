@@ -137,8 +137,8 @@ Explore my repositories:
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarisAidhin&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAidhin&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HarisAidhin&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarisAidhin&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">
