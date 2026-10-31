@@ -156,6 +156,12 @@ I'm always open to connecting with cybersecurity enthusiasts, security researche
   <a href="mailto:haris.aidhin@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-18181B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="mailto:haris.aidhin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-18181B?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haris-aidhin-ramadhan-757374313/">
+    <img src="https://img.shields.io/badge/Linkedin-Get%20in%20Touch-18181B?style=flat-square&logo=linkedin&logoColor=blue" />
+  </a>
 </p>
 
 ---
