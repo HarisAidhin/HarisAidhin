@@ -94,6 +94,9 @@ My vulnerability research contributions have received recognition from various o
 | Organization | Recognition |
 |---|---|
 | University of Texas at Austin | Security Hall of Fame & ISO Challenge Coin |
+| Bournemouth University | Security Hall of Fame - Vulnerability Discovery |
+| Radboud Universiteit | Security Hall of Fame|
+| Bayer Global | Hall of Fame - Security Researcher|
 | Detik.com | Certificate of Appreciation & Merchandise |
 | DQLab | Certificate of Appreciation & Monetary Reward |
 | Xeratic | Certificate of Appreciation & Monetary Reward |
@@ -101,7 +104,10 @@ My vulnerability research contributions have received recognition from various o
 | TransJakarta CSIRT | White Hacker Program |
 | Politeknik Siber Cerdika International | White Hacker Program |
 | Diskominfo Kutai Kartanegara | White Hat Program |
+| Sumedangkab CSIRT | Hall of Fame - Keamanan Siber |
+| Kaskus | Hall of Fame - Keamanan Siber |
 | BPBD Kota Magelang | Official Appreciation & Media Recognition |
+| PT. CODEPOLITAN INTEGRASI INDONESIA | Hall of Fame - Security Contributors|
 
 For more information and supporting documentation, visit my portfolio.
 
