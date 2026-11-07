@@ -85,8 +85,8 @@ My approach is built around continuous learning, responsible research, and ethic
 
 My vulnerability research contributions have received recognition from various organizations through certificates, acknowledgments, Hall of Fame listings, and rewards.
 
-- **56+ Certificates** — Cybersecurity research and vulnerability disclosure recognition.
-- **9 Hall of Fame Entries** — National and international security recognition.
+- **59+ Certificates** — Cybersecurity research and vulnerability disclosure recognition.
+- **11 Hall of Fame Entries** — National and international security recognition.
 - **Responsible Disclosure** — Contributions to organizations through coordinated vulnerability reporting.
 
 ### Selected Recognition
